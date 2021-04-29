@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body {
+    min-width: 1004px; /* 반응형 웹 수정 전까지만*/
+}
 header {
     text-align:40px;
     padding: 50px;
